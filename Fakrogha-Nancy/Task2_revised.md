@@ -5,6 +5,8 @@ There are a few tutorial clips as well to assist first time users trying to get 
 
 I have included the project logo on the home page menu to stand out, i have also added it faintly to the background of the other menus and submenus so that it is subtly in the mind of users as they browse through our online platform, thereby making it easier for them to recall our project.
 
+I have included a chat button to the website to make it easier for visitors/potential contributors to drop their comments and suggestions and get a timely response, it stands out on each page and the chat header is also my proposed logo for our project.
+
 Here is the link to the reviewed [website](https://nancyfaks.wixsite.com/my-site)
 
 Thank you.
